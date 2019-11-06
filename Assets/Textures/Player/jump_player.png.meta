@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 59cde212fe9464b408f7405d0d90f2c4
+timeCreated: 1425502616
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jump_player_0
+    21300002: jump_player_1
+    21300004: jump_player_2
+    21300006: jump_player_3
+    21300008: jump_player_4
+    21300010: jump_player_5
+    21300012: jump_player_6
+    21300014: jump_player_7
+    21300016: jump_player_8
+    21300018: jump_player_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jump_player_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 908
+        width: 94
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_player_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 902
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_player_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 900
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_player_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 910
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_player_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 790
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_player_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 790
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_player_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 790
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_player_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 781
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_player_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 662
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_player_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 668
+        width: 94
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
